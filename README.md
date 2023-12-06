@@ -1,5 +1,7 @@
 # Hey there! 👋 I'm Jayant Kokitkar
-
+<div align="center">
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200" height="200"/>
+</div>
 ## 👨‍💻 About Me
 
 I'm a passionate and results-driven software engineer with over 3 years of professional experience. My journey in the world of coding began during my studies in Computer Science and Information Technology. Graduated and ready to take on exciting challenges in the tech world!

@@ -23,7 +23,7 @@ I'm a passionate and results-driven software engineer with over 3 years of profe
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JayantKokitkar-blue?style=flat-square&logo=linkedin)]www.linkedin.com/in/jayant-kokitkar-414417172
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JayantKokitkar-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/jayant-kokitkar-414417172)
 
 
 ## 🚀 Check Out My Work

@@ -13,8 +13,11 @@ I'm a passionate and results-driven software engineer with over 3 years of profe
 ## 🛠️ Tech Stack
 
 - **Languages:** Java, JavaScript, Python
-- **Web Technologies:** HTML, CSS, React
+- **Frameworks:** Spring Boot
+- **Microservices Architecture**
 - **Databases:** MySQL, MongoDB
+- **Caching:** Redis
+- **Messaging Queues:** Kafka
 - **Tools & Platforms:** Git, Docker, AWS
 
 ## 📈 GitHub Stats
@@ -30,9 +33,9 @@ I'm a passionate and results-driven software engineer with over 3 years of profe
 
 Here are some cool projects I've been working on:
 
-- [Project 1](Link to Project 1)
-- [Project 2](Link to Project 2)
-- [Project 3](Link to Project 3)
+- [Project 1](https://github.com/Jayantkokitkar/jquery_simon_gam)
+- [Project 2]([Link to Project 2](https://github.com/Jayantkokitkar/webportfolio))
+
 
 Feel free to explore my repositories for more!
 

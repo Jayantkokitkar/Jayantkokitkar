@@ -20,9 +20,14 @@ I'm a passionate and results-driven software engineer with over 3 years of profe
 - **Messaging Queues:** Kafka
 - **Tools & Platforms:** Git, Docker, AWS
 
-## 📈 GitHub Stats
+## 🌟 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayantkokitkar&show_icons=true&hide_title=true&hide_border=true)
+[![Jayant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayantkokitkar&show_icons=true&hide_title=true&hide_border=true)](https://github.com/Jayantkokitkar)
+
+Here's a live count of the magic happening in my GitHub cauldron:
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jayantkokitkar&theme=dracula)
+
 
 ## 🌐 Connect with Me
 

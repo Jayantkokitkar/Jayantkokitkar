@@ -24,7 +24,7 @@ I'm a passionate and results-driven software engineer with over 3 years of profe
 
 ## 🌟 GitHub Stats
 
-[![Jayant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayantkokitkar&show_icons=true&hide_title=true&hide_border=true)](https://github.com/Jayantkokitkar)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jayantkokitkar&theme=dark&background=000000)](https://git.io/streak-stats)
 
 Here's a live count of the magic happening in my GitHub cauldron:
 
